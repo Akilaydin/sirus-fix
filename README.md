@@ -1,4 +1,4 @@
-# Sirus Launcher without Proxy
+# Исправление ошибок лаунчера Sirus
 
 Небольшой `.bat`-скрипт для запуска `Sirus Launcher` в Windows без влияния глобальных переменных окружения proxy.
 
